@@ -1,0 +1,2 @@
+[Kembali](../README.md)
+# Graphic

@@ -1,0 +1,20 @@
+Apakah perbedaan antara statistik deskriptif dengan statistik inferensia?
+Statistik deskriptif sebagai gambaran awal, sedangkan statistik inferensia untuk mengkonfirmasi hasil gambaran awal
+
+Apakah Fungsi dari membangun sebuah hipotesis dan mengujinya?
+Untuk mendapatkan informasi yang lebih akurat
+Untuk menjawab permasalahan berdasarkan data sampel
+Untuk mendapatkan kesimpulan dari data sampel
+
+Pernyataan berikut yang benar adalah 
+Untuk menguji hubungan variabel numerik dengan kategorik menggunakan t-test
+Untuk menguji hubungan variabel kategorik dengan kategorik menggunakan chi-square test
+Untuk menguji hubungan variabel numerik dengan numerik menggunakan cor.test
+
+Cara analisis yang runtut adalah:
+    1.Analisis Inferensia
+    2.Eksplorasi data
+    3.Membuat Hipotesis
+    4.Memberi Kesimpulan
+    5.Memberikan rekomendasi berdasarkan analisis data
+2,3,1,4,5

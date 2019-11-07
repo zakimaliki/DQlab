@@ -1,0 +1,11 @@
+Python bisa dimanfaatkan untuk apa saja?
+- Web Development (Server-Side).
+- Data Science, Android (mobile).
+- Big Data Analytics.
+- Computer Vision.
+
+Kenapa Python sangat populer?
+- Naiknya Trend data Science membuat python juga ikut populer.
+- Kontributor python sangat solid dan berkembang pesat.
+- Python didesain untuk code yang readable untuk memudahkan para pembuat code.
+- Python bisa dikembangkan untuk berbagai platform aplikasi dan prototype.
